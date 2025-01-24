@@ -1,0 +1,45 @@
+{
+    "packages": [
+        {
+            "name": "zorzi23/regex_flow",
+            "version": "1.0.0.x-dev",
+            "version_normalized": "1.0.0.9999999-dev",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Zorzi23/RegexFlow.git",
+                "reference": "ccab461c76b63d55474b20b4f8c2e5b865c4c361"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Zorzi23/RegexFlow/zipball/ccab461c76b63d55474b20b4f8c2e5b865c4c361",
+                "reference": "ccab461c76b63d55474b20b4f8c2e5b865c4c361",
+                "shasum": ""
+            },
+            "time": "2025-01-24T21:56:21+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "RegexFlow\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Gustavo Zorzi",
+                    "email": "gustavozorzi2003@gmail.com"
+                }
+            ],
+            "description": "A library for handling regular expressions in PHP.",
+            "support": {
+                "source": "https://github.com/Zorzi23/RegexFlow/tree/master",
+                "issues": "https://github.com/Zorzi23/RegexFlow/issues"
+            },
+            "install-path": "../zorzi23/regex_flow"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
