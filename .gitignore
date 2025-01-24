@@ -1,3 +1,4 @@
+.gitignore
 /src/LockableObject.php
 /src/GenericDataModel.php
 /src/Enum/Enumerators.php
