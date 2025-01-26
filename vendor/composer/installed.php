@@ -20,9 +20,9 @@
             'dev_requirement' => false,
         ),
         'zorzi23/regex_flow' => array(
-            'pretty_version' => '1.0.0.x-dev',
-            'version' => '1.0.0.9999999-dev',
-            'reference' => 'ccab461c76b63d55474b20b4f8c2e5b865c4c361',
+            'pretty_version' => '1.0.0',
+            'version' => '1.0.0.0',
+            'reference' => '95b9d4cbc2e6f59a9e5296138dd3e3de33d3dc70',
             'type' => 'library',
             'install_path' => __DIR__ . '/../zorzi23/regex_flow',
             'aliases' => array(),
