@@ -37,7 +37,7 @@
             ],
             "description": "A library for handling regular expressions in PHP.",
             "support": {
-                "source": "https://github.com/Zorzi23/RegexFlow/tree/master",
+                "source": "https://github.com/Zorzi23/RegexFlow/tree/1.0.0",
                 "issues": "https://github.com/Zorzi23/RegexFlow/issues"
             },
             "time": "2025-01-24T21:56:21+00:00"

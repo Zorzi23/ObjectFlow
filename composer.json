@@ -2,6 +2,7 @@
     "name": "zorzi23/object_flow",
     "type": "library",
     "description": "A PHP library for managing object flows and interactions.",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "ObjectFlow\\": "src/"
